@@ -1,0 +1,137 @@
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.config
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.pdb
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csprojResolveAssemblyReference.cache
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Inicio.resources
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Properties.Resources.resources
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csproj.GenerateResource.Cache
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.pdb
+c:\users\elmer\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Admin.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarClientes.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarEntrenador.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Controls.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Imaging.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Video.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Math.dll
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarCompra.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarVentas.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Agregar_Producto.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Compras.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Productos_en_Stock.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Ventas.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Entrenador.resources
+C:\Users\ELMER\documents\visual studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Mensualidades.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.config
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csprojResolveAssemblyReference.cache
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Admin.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Agregar_Producto.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarClientes.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarCompra.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarEntrenador.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarVentas.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Entrenador.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Inicio.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Mensualidades.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Properties.Resources.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Compras.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Ventas.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csproj.GenerateResource.Cache
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Math.dll
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteProductosEnStock.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteMensualidades.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Buscador.resources
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.application
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Desktop\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.application
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.config
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.application
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Math.dll
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csprojResolveAssemblyReference.cache
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Admin.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Agregar_Producto.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarClientes.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarCompra.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarEntrenador.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarVentas.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Buscador.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Entrenador.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Inicio.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Mensualidades.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Properties.Resources.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Compras.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Ventas.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteMensualidades.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteProductosEnStock.resources
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csproj.GenerateResource.Cache
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.application
+C:\Users\Ramón\Documents\GYM\project\proyect\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ModificarCliente.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.config
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.application
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.pdb
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Math.dll
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csprojResolveAssemblyReference.cache
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Admin.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Agregar_Producto.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarClientes.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarCompra.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarEntrenador.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarVentas.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Buscador.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Entrenador.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Inicio.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Mensualidades.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ModificarCliente.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Properties.Resources.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Compras.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Ventas.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteMensualidades.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteProductosEnStock.resources
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csproj.GenerateResource.Cache
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe.manifest
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.application
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.config
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.pdb
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe.manifest
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.application
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.exe
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\FitnessSportGym.pdb
+D:\GYM\FitnessSportGym\FitnessSportGym\bin\Debug\AForge.Math.dll
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csprojResolveAssemblyReference.cache
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Admin.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Agregar_Producto.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarClientes.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarCompra.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarEntrenador.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.AgregarVentas.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Buscador.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Entrenador.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Inicio.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Mensualidades.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ModificarCliente.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Properties.Resources.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Compras.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.Reporte_Ventas.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteMensualidades.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.ReporteProductosEnStock.resources
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.csproj.GenerateResource.Cache
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.exe.manifest
+D:\GYM\FitnessSportGym\FitnessSportGym\obj\Debug\FitnessSportGym.application
